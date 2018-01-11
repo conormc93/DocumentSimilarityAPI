@@ -19,3 +19,6 @@ computing their Jaccard Index.
 *   Re-model the program using JOptionPane dialog boxes.
 *	Automatically check if the file name entered has a .txt extension.
 *	Create an interface for the parser so other forms of documents could be parsed.
+
+## Link to GitHub
+https://github.com/conormc93/DocumentSimilarityAPI.git
